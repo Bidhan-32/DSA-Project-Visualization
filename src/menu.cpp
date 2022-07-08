@@ -42,7 +42,6 @@ int menu::Run(sf::RenderWindow& App)
 
 	
 
-	// int menu = 0;
 	if (!font1.loadFromFile("resource/Mono.ttf"))
 	{
 		std::cerr << "Error loading HeadText.ttf" << std::endl;
